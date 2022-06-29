@@ -1,4 +1,5 @@
-### Hi there 👋
+CO-Founder & CEO of Jogiyo
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=templer151)](https://solved.ac/templer151/)
 <!--
 **jaeseung-lee/jaeseung-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
