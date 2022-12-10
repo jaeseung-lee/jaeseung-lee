@@ -1,4 +1,6 @@
-CO-Founder & CEO of Jogiyo
+CO-Founder & CEO of ModooCode::Jogiyo
+
+'Jogiyo' is a community system which can be written with an Apple Pencil or Samsung S pen so that users can question anything easily.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=templer151)](https://solved.ac/templer151/)
 <!--
