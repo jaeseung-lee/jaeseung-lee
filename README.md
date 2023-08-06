@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=$jaeseung-lee)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=jaeseung-lee)
